@@ -1,0 +1,28 @@
+{
+  "name": "@john-yuan/dev-browserify-builder",
+  "version": "1.0.0",
+  "description": "An util to build and minify browserify bundle.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/john-yuan/dev-browserify-builder.git"
+  },
+  "keywords": [
+    "browserify",
+    "builder"
+  ],
+  "author": "JOHN YUAN",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/john-yuan/dev-browserify-builder/issues"
+  },
+  "homepage": "https://github.com/john-yuan/dev-browserify-builder#readme",
+  "devDependencies": {
+    "@john-yuan/dev-simple-logger": "^1.0.1",
+    "browserify": "^16.2.3",
+    "uglify-js": "^3.4.9"
+  }
+}
