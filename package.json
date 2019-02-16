@@ -2,7 +2,7 @@
   "name": "@john-yuan/dev-browserify-builder",
   "version": "1.0.0",
   "description": "An util to build and minify browserify bundle.",
-  "main": "index.js",
+  "main": "lib/builder.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
