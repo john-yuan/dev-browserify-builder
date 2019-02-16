@@ -1,8 +1,8 @@
 # Browserify Builder
 
-A dev-tool to bundle the javascript file and its dependencies with browserify. And then minify the result code with uglify-js.
+A dev-tool to bundle the javascript file and its dependencies with browserify and minify the result code with uglify-js.
 
-## install
+## Install
 
 ```bash
 npm i @john-yuan/dev-browserify-builder
