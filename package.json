@@ -1,6 +1,6 @@
 {
   "name": "@john-yuan/dev-browserify-builder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An util to build and minify browserify bundle.",
   "main": "lib/builder.js",
   "scripts": {
